@@ -1,3 +1,3 @@
 module github.com/Anniext/go_demo
 
-go 1.25.1
+go 1.25.4
