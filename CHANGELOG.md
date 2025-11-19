@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file. See [conven
 - update CHANGELOG.md - ([e81b3e7](https://github.com/Anniext/demo/commit/e81b3e7cfc4c7559ff94b46ac3f7e12df52272ed)) - Anniext
 - update CHANGELOG.md - ([cf6aa84](https://github.com/Anniext/demo/commit/cf6aa84fa8c2396dd5f16da8ce16a67d8afda4d2)) - Anniext
 - update CHANGELOG.md - ([c60eda1](https://github.com/Anniext/demo/commit/c60eda1e9de8a48ada4cf9bd7944174f55bd72f9)) - Anniext
+- update CHANGELOG.md - ([ac48950](https://github.com/Anniext/demo/commit/ac489503afd9b8f57603a1c34fa1dae0c42ab426)) - Anniext
 
 ### Other
 
